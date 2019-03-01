@@ -1,3 +1,3 @@
-1 + 1 
+42 / 7
 
-1 + "is the loneliest number"
+42 / 0
